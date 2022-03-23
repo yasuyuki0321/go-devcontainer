@@ -1,11 +1,11 @@
-# go_devcontainer
+# go-devcontainer
 
 ## Usage
 
 ### clone
 
 ```sh
-git clone https://github.com/yasuyuki0321/go_devcontainer.git
+git clone https://github.com/yasuyuki0321/go-devcontainer.git
 ```
 
 ### change repository
