@@ -23,7 +23,8 @@
 		"gruntfuggly.todo-tree",
 		"editorconfig.editorconfig",
     "yzhang.markdown-all-in-one",
-		"tabnine.tabnine-vscode"
+		"tabnine.tabnine-vscode",
+    "formulahendry.code-runner"
 	],
 	"features": {}
 }
