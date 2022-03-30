@@ -8,7 +8,8 @@ RUN apt update; \
     vim \
     locales \
     direnv \
-    unzip
+    unzip \
+    less
 
 RUN echo eval '"$(direnv hook bash)"' >> ~/.bashrc
 
